@@ -1,0 +1,13 @@
+C:\Users\mhmdm\Documents\GitHub\Skaters\Skaters\Skaters\obj\Debug\netcoreapp3.1\Skaters.csprojAssemblyReference.cache
+C:\Users\mhmdm\Documents\GitHub\Skaters\Skaters\Skaters\obj\Debug\netcoreapp3.1\Skaters.AssemblyInfoInputs.cache
+C:\Users\mhmdm\Documents\GitHub\Skaters\Skaters\Skaters\obj\Debug\netcoreapp3.1\Skaters.AssemblyInfo.cs
+C:\Users\mhmdm\Documents\GitHub\Skaters\Skaters\Skaters\obj\Debug\netcoreapp3.1\Skaters.csproj.CoreCompileInputs.cache
+C:\Users\mhmdm\Documents\GitHub\Skaters\Skaters\Skaters\bin\Debug\netcoreapp3.1\Skaters.exe
+C:\Users\mhmdm\Documents\GitHub\Skaters\Skaters\Skaters\bin\Debug\netcoreapp3.1\Skaters.deps.json
+C:\Users\mhmdm\Documents\GitHub\Skaters\Skaters\Skaters\bin\Debug\netcoreapp3.1\Skaters.runtimeconfig.json
+C:\Users\mhmdm\Documents\GitHub\Skaters\Skaters\Skaters\bin\Debug\netcoreapp3.1\Skaters.runtimeconfig.dev.json
+C:\Users\mhmdm\Documents\GitHub\Skaters\Skaters\Skaters\bin\Debug\netcoreapp3.1\Skaters.dll
+C:\Users\mhmdm\Documents\GitHub\Skaters\Skaters\Skaters\bin\Debug\netcoreapp3.1\Skaters.pdb
+C:\Users\mhmdm\Documents\GitHub\Skaters\Skaters\Skaters\obj\Debug\netcoreapp3.1\Skaters.dll
+C:\Users\mhmdm\Documents\GitHub\Skaters\Skaters\Skaters\obj\Debug\netcoreapp3.1\Skaters.pdb
+C:\Users\mhmdm\Documents\GitHub\Skaters\Skaters\Skaters\obj\Debug\netcoreapp3.1\Skaters.genruntimeconfig.cache
